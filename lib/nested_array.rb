@@ -28,7 +28,7 @@ CONVENTIONAL_PRODUCE = [
   "Watermelon",
   "Eggplant"
 ]
-[ORGANIC_PRODUCE = [
+ORGANIC_PRODUCE = [
   "Strawberries",
   "Potatoes",
   "Grapes",
